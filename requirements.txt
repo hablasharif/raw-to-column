@@ -1,0 +1,9 @@
+aiolimiter
+pip==23.2.1
+aiohttp
+asyncio
+BeautifulSoup4
+pyperclip
+cachetools
+lxml
+pandas
